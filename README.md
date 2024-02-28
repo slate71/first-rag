@@ -1,4 +1,4 @@
-# Firt RAG Application
+# First RAG Application
 
-Let see where we can go!
-!
+Let's see where we can go!
+
